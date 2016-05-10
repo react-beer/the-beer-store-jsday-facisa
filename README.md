@@ -1,8 +1,12 @@
+# Workshop JSday - Campina Grande
+
+[![jsday-cg-facisa](https://raw.githubusercontent.com/react-beer/the-beer-store-jsday-facisa/master/jsday-cg-facisa.png)](http://jsday.com.br/)
+
 # The Beer Store React
 
 ## Demo
 
-[![the-beer-store-react](https://raw.githubusercontent.com/react-beer/the-beer-store-react/master/the-beer-store.png)](http://react-beer.github.io/the-beer-store-react/)
+[![the-beer-store-react](https://raw.githubusercontent.com/react-beer/the-beer-store-jsday-facisa/master/the-beer-store.png)](http://react-beer.github.io/the-beer-store-react/)
 
 > [Check it live](http://react-beer.github.io/the-beer-store-react/).
 
@@ -17,8 +21,8 @@ First of all, install the dependencies to run this App.
 
 ```sh
 # Clone this repository
-$ git clone git@github.com:react-beer/the-beer-store-react.git
-$ cd the-beer-store-react
+$ git clone git@github.com:react-beer/the-beer-store-jsday-facisa.git
+$ cd the-beer-store-jsday-facisa
 
 # install dependencies
 $ npm install
@@ -119,13 +123,7 @@ With the commands above, you have everything to start.
 │   ├── js
 │   │   ├── App.js
 │   │   ├── components
-│   │   │   ├── Cart.js
-│   │   │   ├── Footer.js
-│   │   │   ├── GitHubFork.js
-│   │   │   ├── Header.js
-│   │   │   ├── Product.js
-│   │   │   ├── Products.js
-│   │   │   └── Store.js
+│   │   │   └── Footer.js
 │   │   └── utils
 │   │       └── data-beers.js
 │   └── styl
