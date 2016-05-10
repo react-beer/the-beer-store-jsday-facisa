@@ -1,6 +1,6 @@
 # Workshop JSday - Campina Grande
 
-[![jsday-cg-facisa](https://raw.githubusercontent.com/react-beer/the-beer-store-jsday-facisa/master/jsday-cg-facisa.png)](http://jsday.com.br/)
+[![jsday-cg-facisa](https://raw.githubusercontent.com/react-beer/the-beer-store-jsday-facisa/master/jsday-cg-facisa.jpg)](http://jsday.com.br/)
 
 # The Beer Store React
 
