@@ -157,11 +157,11 @@ Latest ✔ | Latest ✔ | 11+ ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Lates
 
 ## Contributing
 
-If you want to help, please read the [Contributing](https://github.com/react-beer/the-beer-store-react/blob/master/CONTRIBUTING.md) guide.
+If you want to help, please read the [Contributing](https://github.com/react-beer/the-beer-store-jsday-facisa/blob/master/CONTRIBUTING.md) guide.
 
 ## History
 
-For detailed changelog, check [Releases](https://github.com/react-beer/the-beer-store-react/releases).
+For detailed changelog, check [Releases](https://github.com/react-beer/the-beer-store-jsday-facisa/releases).
 
 ## License
 
