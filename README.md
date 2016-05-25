@@ -17,7 +17,7 @@
 First of all, install the dependencies to run this App.
 
 - [NodeJS](http://nodejs.org/)
-- [GulpJS](http://gulpjs.com/)
+- [GulpJS](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md#1-install-gulp-globally)
 
 ```sh
 # Clone this repository
