@@ -2,6 +2,8 @@
 
 [![jsday-cg-facisa](https://raw.githubusercontent.com/react-beer/the-beer-store-jsday-facisa/master/jsday-cg-facisa.jpg)](http://jsday.com.br/)
 
+> [Slides](https://speakerdeck.com/brenopolanski/criando-uma-web-app-com-react-dot-js-plus-firebase).
+
 # The Beer Store React
 
 ## Demo
